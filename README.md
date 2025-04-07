@@ -3,9 +3,9 @@
 
 My contact : 
 <p>
-<a href="mailto:hugoflandrinpro@gmail.com">Email<img src="https://www.svgrepo.com/show/14478/email.svg" alt="email" width="40" height="40"/> </a>
+<a href="mailto:hugoflandrinpro@gmail.com">Email</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/hugo-flandrin-104476294/">Linkedin<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/hugo-flandrin-104476294/">Linkedin</a>
 </p>
 
 <h3 align="left">About me :</h3>
