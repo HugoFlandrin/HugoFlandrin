@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Flandrin</h1>
-<h3 align="center">Bachelor 2 Student at Ynov Lyon | Aspiring Game Programmer, AI Specialist, or Cybersecurity Expert</h3>
+<h3 align="center">Bachelor 2 Student at Ynov Lyon | Aspiring Game Programmer</h3>
 
 My contact : **hugoflandrinpro@gmail.com**
 <p align="left">
@@ -9,9 +9,8 @@ My contact : **hugoflandrinpro@gmail.com**
 <h3 align="left">About me :</h3>
 
 <p>
-I'm currently a Bachelor 2 student in Computer Science at Ynov Lyon. Though I have not yet chosen a specialty, I am deeply interested in three areas: 
-<strong>Game Programming</strong>, <strong>Artificial Intelligence</strong>, and <strong>Cybersecurity</strong>.  
-I am looking for a 1-3 year apprenticeship in one of these fields, with a work-study rhythm of 2 weeks in a company and 1 week in class. 
+I'm currently a Bachelor 2 student in Computer Science at Ynov Lyon. Though I have not yet chosen a specialty, I am deeply interested in <strong>Game Programming</strong>.  
+I am looking for a one year apprenticeship in this field, with a work-study rhythm of 2 weeks in a company and 1 week in class. 
 </p>
 
 <h3 align="left">My main strengths :</h3>
