@@ -3,7 +3,7 @@
 
 My contact : 
 <p>
-<a href="mailto:hugoflandrinpro@gmail.com">Email</a>
+<a href="https://hugoflandrinpro@gmail.com">Email</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/hugo-flandrin-104476294/">Linkedin</a>
 </p>
