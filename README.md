@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hugo Flandrin</h1>
 <h3 align="center">Bachelor 2 Student at Ynov Lyon | Aspiring Game Programmer</h3>
 
-My contact : **hugoflandrinpro@gmail.com**
-<p align="left">
-<a href="https://www.linkedin.com/in/hugo-flandrin-104476294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo flandrin" height="30" width="40" /></a>
+My contact : 
+<p>
+<a href="mailto:hugoflandrinpro@gmail.com">Email<img src="https://www.svgrepo.com/show/14478/email.svg" alt="email" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hugo-flandrin-104476294/">Linkedin<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">About me :</h3>
