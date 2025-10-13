@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Flandrin</h1>
-<h3 align="center">Bachelor 2 Student at Ynov Lyon | Aspiring Game Programmer</h3>
+<h3 align="center">Bachelor 3 Student at Ynov Lyon | Aspiring Game Programmer</h3>
 
 My contact : 
 <p>
@@ -11,8 +11,8 @@ My contact :
 <h3 align="left">About me :</h3>
 
 <p>
-I'm currently a Bachelor 2 student in Computer Science at Ynov Lyon. Though I have not yet chosen a specialty, I am deeply interested in <strong>Game Programming</strong>.  
-I am looking for a one year apprenticeship in this field, with a work-study rhythm of 2 weeks in a company and 1 week in class. 
+I'm currently a Bachelor 3 student in Computer Science at Ynov Lyon, specializing in <strong>Game Programming</strong>.  
+I am actively looking for a one year apprenticeship in this field, with a work-study rhythm of 2 weeks in a company and 1 week in class. 
 </p>
 
 <h3 align="left">My main strengths :</h3>
