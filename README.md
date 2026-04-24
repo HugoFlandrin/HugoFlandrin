@@ -12,19 +12,23 @@ My contact :
 
 <p>
 I'm currently a Bachelor 3 student in Computer Science at Ynov Lyon, specializing in <strong>Game Programming</strong>.  
-I am actively looking for a one year apprenticeship in this field, with a work-study rhythm of 2 weeks in a company and 1 week in class. 
+I am actively looking to start my career as a gameplay and engine programmer. I am open to any collaboration opportunities, including full-time roles, freelance work, or relevant internships.. 
 </p>
 
 <h3 align="left">My main strengths :</h3>
 
 - **Flexibility :** I have a solid knowledge of multiple programming languages and can adapt the language to the task at hand.  
-- **Passion :** As a technology enthusiast, I can work on innovative and exciting projects without counting the hours.  
+- **Passion :** As a game development enthusiast, I can work on innovative and exciting projects without counting the hours.  
 - **Organization :** I prioritize tasks effectively to meet deadlines and deliver high-quality results.  
 - **Calmness :** I remain calm and focused under pressure, always ready to tackle challenges with composure.  
 
 <h3 align="left">Languages and Tools :</h3>
 
 <p align="left" style="display: flex; align-items:center; flex-wrap: wrap;">
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/unity.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/unreal-engine.svg" alt="unreal-engine" width="40" height="40"/> </a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/fr-fr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="c#" width="40" height="40"/></a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -34,8 +38,6 @@ I am actively looking for a one year apprenticeship in this field, with a work-s
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/unity.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/ab2364a6e61bd6e4af1cf62a167485d658911ded/icons/svg/brand/unreal-engine.svg" alt="unreal-engine" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
