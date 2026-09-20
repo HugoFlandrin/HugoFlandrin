@@ -19,7 +19,7 @@ Je construis des systèmes de gameplay et des fondations de moteur en C++ : du p
 
 ### 👋 À propos
 
-Titulaire d'un Bachelor informatique à Ynov Lyon, spécialisé en Game Programming, je recherche activement une opportunité en tant que programmeur gameplay ou moteur : poste junior, stage, ou collaboration freelance.
+Titulaire d'un Bachelor informatique à Ynov Lyon, spécialisé en Game Programming, je recherche activement une opportunité en tant que programmeur gameplay ou moteur.
 
 Ce qui m'intéresse, c'est autant construire le gameplay que comprendre ce qu'il y a dessous : boucle de jeu, architecture, physique, rendu. En parallèle, je développe des projets personnels (moteur 2D en C++, prototypes Unreal Engine) et je fais du développement freelance via LevelWeb Studio.
 
