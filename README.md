@@ -1,8 +1,8 @@
 <h1 align="center">Hugo Flandrin</h1>
-<h3 align="center">Programmeur Gameplay & Moteur 🎮</h3>
+<h3 align="center">Programmeur Gameplay & Moteur · Game Designer 🎮</h3>
 
 <p align="center">
-Je construis des systèmes de gameplay et des fondations de moteur en C++ : du prototype technique au projet jouable de bout en bout.
+Je conçois et je construis des jeux, de l'idée au projet jouable : systèmes de gameplay et fondations de moteur en C++, mais aussi UI, sound design, parcours joueur et prototypes.
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@ Je construis des systèmes de gameplay et des fondations de moteur en C++ : du p
 
 ### 👋 À propos
 
-Titulaire d'un Bachelor informatique à Ynov Lyon, spécialisé en Game Programming, je recherche activement une opportunité en tant que programmeur gameplay ou moteur.
+Développeur et game designer, je construis et je livre mes projets de bout en bout. Côté technique : boucle de jeu, architecture, physique, rendu et gameplay, en C++ sur mon propre moteur 2D, sur Unreal Engine et sur Unity. Côté design : l'UI, les sfx, les parcours utilisateur, les prototypes de gameplay et les idées qui vont avec. Je réalise aussi des projets web et jeu vidéo pour des clients via LevelWeb Studio.
 
-Ce qui m'intéresse, c'est autant construire le gameplay que comprendre ce qu'il y a dessous : boucle de jeu, architecture, physique, rendu. En parallèle, je développe des projets personnels (moteur 2D en C++, prototypes Unreal Engine) et je fais du développement freelance via LevelWeb Studio.
+Mes projets existent et se jouent déjà. Si l'un d'eux vous parle et que vous avez une idée de collaboration, discutons-en !
 
 ### 🏢 LevelWeb Studio
 
@@ -31,13 +31,14 @@ Ce qui m'intéresse, c'est autant construire le gameplay que comprendre ce qu'il
 
 ### 🎯 Projet phare : 2D Game Engine
 
-Un moteur de jeu 2D maison, écrit en C++ avec SFML et Box2D. Plutôt que de m'arrêter à une démo technique, j'ai voulu montrer ce qu'il permet vraiment de produire : un platformer complet (déplacements, ennemis, niveaux, interface) et un shoot-em-up vertical (vagues d'ennemis, tirs, power-ups), tous les deux construits sur la même base moteur. Les deux jeux sont **jouables directement dans le navigateur**, sans aucune installation.
+Un moteur de jeu 2D maison, écrit en C++ avec SFML et Box2D, démontré par **Last Wing: Endless Waves**, un vrai shoot-em-up vertical que j'ai conçu et réalisé de A à Z : gameplay, UI, sound design et courbe de difficulté. À jouer en solo ou à deux (en local) en survie infinie, il est porté en WebAssembly et est donc **jouable directement dans le navigateur**, sur PC comme sur mobile, sans aucune installation.
 
-➡️ **[Essayer les démos sur le portfolio](https://hugoflandrin.github.io/Portfolio/pages/2d-game-engine.html)**
+➡️ **[Essayer la démo sur le portfolio]([https://hugoflandrin.github.io/Portfolio/pages/2d-game-engine.html](https://hugoflandrin.github.io/Portfolio/pages/last-wing.html))**
 
 ### 💪 Points forts
 
-- **Polyvalence :** plusieurs langages à l'aise, j'adapte l'outil à la tâche plutôt que l'inverse.
+- **Double casquette :** je conçois autant que je code : UI, sfx, parcours joueur, prototypes de gameplay.
+- **Polyvalence :** à l'aise sur plusieurs langages, j'adapte l'outil à la tâche plutôt que l'inverse.
 - **Passion :** les projets perso, j'y passe du temps sans compter parce que ça me plaît vraiment.
 - **Rigueur :** je tiens mes délais et je livre un travail soigné, pas juste "qui marche".
 - **Calme sous pression :** face à un blocage ou une deadline courte, je reste concentré plutôt que de paniquer.
