@@ -6,7 +6,7 @@ Je conçois et je construis des jeux, de l'idée au projet jouable : systèmes d
 </p>
 
 <p align="center">
-  <a href="https://hugoflandrin.github.io/Portfolio/"><b>🌐 Portfolio</b></a>
+  <a href="https://hugoflandrin.github.io/LevelWeb-Studio/portfolio/"><b>🌐 Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/hugo-flandrin-104476294/">LinkedIn</a>
   &nbsp;·&nbsp;
